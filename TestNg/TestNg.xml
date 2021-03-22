@@ -1,0 +1,18 @@
+        <suite name="anything">
+                <test name="whatever">
+                   <classes>
+                        <class name="com.smoketest"></class>
+                   </classes>
+                </test>
+                <test name="whatever1">
+                    <classes>
+                        <class name="com.RegressionTest"></class>
+                   </classes>
+                 </test>
+                 <test name="whatever2">
+                   <classes>
+                        <class name="bit.UnitTest"></class>
+                   </classes>
+                 </test>
+
+</suite>

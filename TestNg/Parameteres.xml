@@ -1,0 +1,9 @@
+  <suite name="suite1">
+  <test name="test1">
+  <parameter name="browser" value="firefox"></parameter>
+  <classes>
+  <class name="com.smoketest"></class>
+  </classes>
+  </test>
+  </suite>
+

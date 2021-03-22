@@ -1,0 +1,23 @@
+<suite name="anything">
+    <test name="whatever">
+       <groups>
+          <run>
+            <include name="smoke"> </include>
+            <include name="unit"> </include>
+          </run>
+       </groups>
+      <classes>
+         <packages>
+           <package name="bit"> </package>
+           <package name="com"> </package>
+         </packages>
+      </classes>
+     </test>
+     <classes>
+     <class name="">
+     <methods>
+     <include name="test1"></include>
+     </methods>
+     </class>
+     </classes>
+</suite>
